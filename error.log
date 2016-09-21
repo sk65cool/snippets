@@ -1,0 +1,2 @@
+[Wed Sep 21 21:27:39.858556 2016] [:error] [pid 27768] [client 127.0.0.1:56596] WordPress database error Unknown column 'snippets_' in 'field list' for query SELECT snippets_, referer: http://wp-snippets/wp-admin/setup-config.php?step=1
+[Wed Sep 21 21:28:36.776832 2016] [:error] [pid 23566] [client 127.0.0.1:56612] WordPress database error Unknown column 'snippets_' in 'field list' for query SELECT snippets_, referer: http://wp-snippets/wp-admin/setup-config.php?step=1
